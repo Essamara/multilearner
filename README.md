@@ -7,6 +7,11 @@ please contact: https://discordapp.com/users/814589682830016602/ on discord
 
 
 
+it is a distributed GPU trainer for machine learning 
+
+2 GPUs in one machine and 2 GPUs in another will use all the GPUs you can have as many GPUs as you want
+
+... right now configured for diffusion models, but you could do it for text or video as well
 
 
 
