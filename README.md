@@ -1,3 +1,21 @@
+
+
+
+This software is for sale
+
+please contact: https://discordapp.com/users/814589682830016602/ on discord
+
+
+
+
+
+
+
+
+
+
+
+
 # multilearner
 GPUMultilearner
 
